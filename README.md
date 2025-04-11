@@ -93,7 +93,7 @@ More coming soon...
 ## 📫 Let's Connect
 
 - 📧 Email: [rishavdas2841@gmail.com](mailto:rishavdas2841@gmail.com)
-- 💼 [LinkedIn](linkedin.com/in/rishav-das-97912824a)
+- 💼 [LinkedIn](https://linkedin.com/in/rishav-das-97912824a)
 - 📁 Resume: *Ask me anytime!*
 - 🤝 Open to: Internships · Freelance Work · Collaborations
 
