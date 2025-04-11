@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hey 👋 I'm Rishav Das</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Creative+Coder+%F0%9F%8E%A8;Web+Builder+%2B+Bike+Lover+%F0%9F%9A%8D;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Frontend+Developer+%F0%9F%9A%80;Creative+Coder+%F0%9F%8E%A8;Web+Builder+%2B+%F0%9F%9A%8D;Always+Learning+%F0%9F%92%AB" alt="Typing SVG" />
 </p>
 
 ---
