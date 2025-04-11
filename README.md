@@ -96,6 +96,7 @@ More coming soon...
 - 💼 [LinkedIn](https://linkedin.com/in/rishav-das-97912824a)
 - 📁 Resume: *Ask me anytime!*
 - 🤝 Open to: Internships · Freelance Work · Collaborations
+- Portfolio: [Rishav Das](https://rishavdas.netlify.app/)
 
 ---
 
